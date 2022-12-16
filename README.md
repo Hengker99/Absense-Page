@@ -1,2 +1,2 @@
 # Absense-Page
-Duplicate absen apps
+Source code for you
